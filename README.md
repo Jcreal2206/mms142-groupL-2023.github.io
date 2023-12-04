@@ -10,7 +10,7 @@ Disruptive technology is referred to as AI chatbots that drastically transform t
 
 **2. Cost-Effective Solution:** Using AI chatbots can be cost-effective for businesses. As opposed to employing a sizeable customer support unit, chatbots minimize operational costs. In addition, chatbots are capable of taking multiple queries at the same time therefore, organizations do not need to hire extra employees when scaling their operations.
 
-**3. Increased Efficiency:** It may seem slow for humans but faster for AI chatbots, thereby increasing operational efficiency. They are capable of handling big data in real time and providing necessary insights to support their decisions. In other ways, chatbots simplify procedures as it automate routine work. 
+**3. Increased Efficiency:** It may seem slow for humans but faster for AI chatbots, thereby increasing operational efficiency. They are capable of handling big data in real-time and providing necessary insights to support their decisions. In other ways, chatbots simplify procedures as it automate routine work. 
 
 **4. Accessible Customer Support:** Customer support is also quick in this aspect since they are always available regardless of customers’ location and time. This helps in ensuring customers can seek assistance any time they want without necessarily waiting for a human being. This becomes an asset, especially in industry sectors like e-commerce where quick response is necessary for client satisfaction.
 
@@ -58,7 +58,7 @@ Rose AI is excellent in the analysis and generation of the natural language. Thi
 
 Rose AI is also able to develop creative as well as informative content on various issues. It can do essays, stories, poems, and even computer programs. This disturbs the conventional way of content development since Rose AI generates superior quality content at the same speed and to a minimal extent of human input. In addition, Rose AI is also capable of translating text from one language to another. It is capable of translating sentences or entire paragraphs with utmost accuracy hence providing solutions for language barriers. It destroys old-fashioned methods of translation services by introducing their fast and effective replacement.
 
-There are far-reaching effects of Rose AI and different areas and professions. The technology can be used for customer support, virtual assistants, content creation, translation and many more others. It has been advanced to a level where language understanding and contextual adaptation are possible. This has opened up new opportunities for improving user experiences and automation of tasks where human intervention was always necessary.
+There are far-reaching effects of Rose AI and different areas and professions. The technology can be used for customer support, virtual assistants, content creation, translation, and many more others. It has been advanced to a level where language understanding and contextual adaptation are possible. This has opened up new opportunities for improving user experiences and automation of tasks where human intervention was always necessary.
 
 Nevertheless, it’s important to be very careful and observe ethical principles for the sake of using this technology responsibly.
 
@@ -98,13 +98,13 @@ Siri is a chatbot AI developed by Apple Inc. that supports Apple devices like iP
 
 Siri was created to help facilitate user access to multiple services, information, and tasks through voices. This means that the interaction between users and Siri takes place through natural language questions and commands. Natural language processing and machine learning algorithms are used by Siri to understand and reply to user’s questions.
 
-In that case, Siri disturbs the market status quo. The voice-controlled interface, as a first, changes the manner in which users communicate with their devices. Rather than rely on touching and typing, users can talk to their devices to get them to fetch information for them using Siri. This is a convenient way of interacting without having to hold anything since it is ideal for multitasking and when users are immobile.
+In that case, Siri disturbs the market status quo. The voice-controlled interface, as a first, changes how users communicate with their devices. Rather than rely on touching and typing, users can talk to their devices to get them to fetch information for them using Siri. This is a convenient way of interacting without having to hold anything since it is ideal for multitasking and when users are immobile.
 
-Additionally, Siri works together with several apps and services such that users are able to interact with only one system. Siri will enable users to send text messages, call, set reminders and appointments, play music, navigate maps, and many other jobs. Siri helps in controlling devices by reducing switching between multiple apps and thus makes it easier to use.
+Additionally, Siri works together with several apps and services such that users can interact with only one system. Siri will enable users to send text messages, call, set reminders and appointments, play music, navigate maps, and many other jobs. Siri helps in controlling devices by reducing switching between multiple apps and thus makes it easier to use.
 
 Siri also disrupts by understanding context and giving tailored answers. Thus, Siri gets better and better as time goes on. The customization of Siri makes it friendlier to users making it more relevant, functional, and usable.
 
-Also, Siri has created opportunities for app and service creators to integrate their products with the virtual assistant. Apple presents SiriKit which is a framework through which developers develop specific Siri enabled functions within their applications. Siri’s capabilities are extended to other domains and it becomes more integrated at this level.
+Also, Siri has created opportunities for app and service creators to integrate their products with the virtual assistant. Apple presents SiriKit which is a framework through which developers develop specific Siri-enabled functions within their applications. Siri’s capabilities are extended to other domains and it becomes more integrated at this level.
 
 Therefore, Siri disturbs the general market by launching a voice-controlled interface, integrating different services, giving custom answers, and allowing third-party integration. It has completely altered the way people handle these devices, leading the way to virtual assistant domination of the market. Siri’s consistent progressions and betterments expand the capabilities of an AI chatbot towards user interactions and usefulness.
 
@@ -112,7 +112,7 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **Charleson, M. (2018).** Meet Rose the AI Chat Bot with personality. _https://fiveminutemarketing.com/2018/09/meet-rose-an-ai-chat-bot-with-personality/_
 
-**Doe, J. (2020).** Woebot – Bringing mental health care to your finger tips. _https://d3.harvard.edu/platform-digit/submission/woebot-bringing-mental-health-care-to-your-finger-tips/_
+**Doe, J. (2020).** Woebot – Bringing mental health care to your fingertips. _https://d3.harvard.edu/platform-digit/submission/woebot-bringing-mental-health-care-to-your-finger-tips/_
 
 **Frackiewicz, M. (2023).** Using Kuki AI to Enhance Customer Experience in E-commerce. _https://ts2.space/en/using-kuki-ai-to-enhance-customer-experience-in-e-commerce/#gsc.tab=0_
 
@@ -128,7 +128,7 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **Sepali, A. (2018).** How Chatbots Are Changing the Game. _https://www.linkedin.com/pulse/disruptive-technologies-chatbots-alessandro-sepali-8_
 
-**Spradley, K (2022).** Disrupt or Be Distrupted: How Chatbots and other Technologies are Changing the Landscape of Business. Linkedin. _https://www.linkedin.com/pulse/disrupt-disrupted-how-chatbots-other-technologies-kristapher-spradley_
+**Spradley, K (2022).** Disrupt or Be Disrupted: How Chatbots and other Technologies are Changing the Landscape of Business. Linkedin. _https://www.linkedin.com/pulse/disrupt-disrupted-how-chatbots-other-technologies-kristapher-spradley_
 
 
 
