@@ -1,10 +1,10 @@
 # The Rise of AI chatbots: Disrupting Industries and Transforming Customer Experience
 
-AI chatbot is a sophisticated technology, which utilizes artificial intelligence to replicate natural speech for users’ assistance or information. It is a programmed computer that understands natural language and replies with meaningful and useful responses. Such AI chatbots can communicate with the users through text or voice dialogues, in response to their questions, fulfilling various tasks or just participating in short conversations. It uses NLP and machine learning technologies to comprehend user input and produce relevant responses. Such chatbots are applicable in different platforms like messaging apps, websites, mobile applications, etc.
+AI chatbot is a sophisticated technology, which utilizes artificial intelligence to replicate natural speech for users’ assistance or information. It is a programmed computer that understands natural language and replies with meaningful and useful responses. According to (Peitzker, 2016) such AI chatbots can communicate with users through text or voice dialogues, in response to their questions, fulfilling various tasks or just participating in short conversations. It uses NLP and machine learning technologies to comprehend user input and produce relevant responses. Such chatbots are applicable in different platforms like messaging apps, websites, mobile applications, etc.
 
 **Why are AI Chatbots Considered as Disruptive Technology?**
 
-Disruptive technology is referred to as AI chatbots that drastically transform the sectors, and change how businesses interact with consumers. Here are some reasons behind their disruptive nature according to (Peitzker, 2016). 
+Disruptive technology is referred to as AI chatbots that drastically transform the sectors, and change how businesses interact with consumers. Here are some reasons behind their disruptive nature according to (Sepali, 2018). 
 
 **1. Enhanced Customer Experience:** Users enjoy personalized and interactive experiences with AI chatbots because these virtual assistants respond to them quickly and correctly. Concurrently, they can take part in multiple conversations, implying that they are available 24/7. The use of chatbots helps businesses to provide quick and efficient customer service thus satisfying more customers and increasing customer loyalty.
 
@@ -110,11 +110,25 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **References**
 
-**Pritzker, T (2016).** _Why Chatbots are so Disrupting? Research Gate. https://www.researchgate.net/publication/324570469_Why_chatbots_are_so_disruptive_
+**Charleson, M. (2018).** Meet Rose the AI Chat Bot with personality. _https://fiveminutemarketing.com/2018/09/meet-rose-an-ai-chat-bot-with-personality/_
+
+**Doe, J. (2020).** Woebot – Bringing mental health care to your finger tips. _https://d3.harvard.edu/platform-digit/submission/woebot-bringing-mental-health-care-to-your-finger-tips/_
+
+**Frackiewicz, M. (2023).** Using Kuki AI to Enhance Customer Experience in E-commerce. _https://ts2.space/en/using-kuki-ai-to-enhance-customer-experience-in-e-commerce/#gsc.tab=0_
+
+**Geer, S; Ramo, D; & Chang, YJ et al. (2019).** Use of the Chatbot “Vivibot” to Deliver Positive Psychology Skills and Promote Well-Being Among Young People After Cancer Treatment: Randomized Controlled Feasibility Trial. _https://mhealth.jmir.org/2019/10/e15018/_
+
+**Masterson, A. (2016).** Hate Siri? Meet Viv - the future of chatbots and artificial intelligence. _https://www.smh.com.au/technology/hate-siri-meet-viv-and-why-shes-the-future-of-chatbots-and-artificial-intelligence-20160511-gosmja.html_
+
+**Peitzker, T (2016).** Why Chatbots are so Disrupting? Research Gate. _https://www.researchgate.net/publication/324570469_Why_chatbots_are_so_disruptive_
 
 **Rajnerowicz, K (2023).** 26 Best Real Life Chatbot Examples [Well-Known Brands]. Tidio. _https://www.tidio.com/blog/chatbot-examples/_
 
-**Spradley, K (2022).** Disrupt or Be Disrupted: How Chatbots and Other Technologies are Changing the Landscape of Business. Linkedin. _https://www.linkedin.com/pulse/disrupt-disrupted-how-chatbots-other-technologies-kristapher-spradley_
+**Rajnerowicz, K (2023).** Meet Lyro: The First Conversational AI for SMBs.Tidio _https://www.tidio.com/blog/lyro-conversational-ai/_
+
+**Sepali, A. (2018).** How Chatbots Are Changing the Game. _https://www.linkedin.com/pulse/disruptive-technologies-chatbots-alessandro-sepali-8_
+
+**Spradley, K (2022).** Disrupt or Be Distrupted: How Chatbots and other Technologies are Changing the Landscape of Business. Linkedin. _https://www.linkedin.com/pulse/disrupt-disrupted-how-chatbots-other-technologies-kristapher-spradley_
 
 
 
