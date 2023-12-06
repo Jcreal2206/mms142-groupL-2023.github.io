@@ -1,4 +1,4 @@
-# The Rise of AI chatbots: Disrupting Industries and Transforming Customer Experience
+# The Rise of AI Chatbots: Disrupting Industries and Transforming Customer Experience
 
 AI chatbot is a sophisticated technology, which utilizes artificial intelligence to replicate natural speech for users’ assistance or information. It is a programmed computer that understands natural language and replies with meaningful and useful responses. According to (Peitzker, 2016) such AI chatbots can communicate with users through text or voice dialogues, in response to their questions, fulfilling various tasks or just participating in short conversations. It uses NLP and machine learning technologies to comprehend user input and produce relevant responses. Such chatbots are applicable in different platforms like messaging apps, websites, mobile applications, etc.
 
