@@ -142,7 +142,7 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **Geer, S; Ramo, D; & Chang, YJ et al. (2019).** Use of the Chatbot “Vivibot” to Deliver Positive Psychology Skills and Promote Well-Being Among Young People After Cancer Treatment: Randomized Controlled Feasibility Trial. _https://mhealth.jmir.org/2019/10/e15018/_
 
-**Hamacher, A. (2015).** Chatbot Rose wins 2015’s Loebner artificial intelligence prize | BBC News. _https://robohub.org/chatbot-rose-wins-2015s-loebner-artificial-intelligence-prize-bbc-news/_
+**Hamacher, A. (2015).** Chatbot Rose wins 2015’s Loebner artificial intelligence prize. BBC News. _https://robohub.org/chatbot-rose-wins-2015s-loebner-artificial-intelligence-prize-bbc-news/_
 
 **Hope Lab (2019).** Hopelab's Vivibot, the First Chatbot Designed for Young Adult Cancer Survivors, Can Improve The Mental Well-being of Users. _https://www.prnewswire.com/news-releases/hopelabs-vivibot-the-first-chatbot-designed-for-young-adult-cancer-survivors-can-improve-mental-well-being-of-users-300951573.html_
 
