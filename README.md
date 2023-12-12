@@ -1,20 +1,32 @@
 # The Rise of AI Chatbots: Disrupting Industries and Transforming Customer Experience
 
-AI chatbot is a sophisticated technology, which utilizes artificial intelligence to replicate natural speech for users’ assistance or information. It is a programmed computer that understands natural language and replies with meaningful and useful responses. According to (Peitzker, 2016) such AI chatbots can communicate with users through text or voice dialogues, in response to their questions, fulfilling various tasks or just participating in short conversations. It uses NLP and machine learning technologies to comprehend user input and produce relevant responses. Such chatbots are applicable in different platforms like messaging apps, websites, mobile applications, etc.
+**Disruptive Technologies**
+
+**Disruptive technologies** are innovations that disrupt established markets by starting in a niche and overtaking the competition. Personal computers and cell phones are disruptive technologies that cause significant changes in people's lives. They have revolutionized our study, work, and free time. The demand for computers and cell phones reduced the use of typewriters and telephones and brought significant changes to the market.
+
+Clayton Christensen, a business consultant and Harvard Business School professor, first introduced the term **disrupted technology as "disruptive innovation"** in a 1995 article in Harvard Business Review. Disruptive innovation, coined by Christensen, is a technology that suddenly alters how industries, companies, and consumers operate. It resembles the Fourth Industrial Revolution, characterized by digitalization and emerging technological advances, according to Repsol.com.
+
+Davenport et al. (2021) state that **Artificial Intelligence (AI)** can significantly enhance marketing by improving customer understanding, product matching, and persuasion. Numerous companies have started utilizing AI to manage specific tasks, such as programmatic buying for digital ad placement. It also assists in broad functions like improving the accuracy of sales forecasts and enhances human efforts in structured tasks like customer service.
+
+**AI Chatbots**
+
+One example of disruptive technology currently making waves in the market is **Artificial Intelligence (AI) Chatbots.** It's an automated software that converses with users automatically and offers 24/7 customer service.
+
+The AI chatbot is a sophisticated technology that utilizes artificial intelligence to replicate natural speech for users’ assistance or information. It is a programmed computer that understands natural language and replies with meaningful and useful responses. According to (Peitzker, 2016), such AI chatbots can communicate with users through text or voice dialogues in response to their questions, fulfilling various tasks, or just participating in short conversations. It uses NLP and machine learning technologies to comprehend user input and produce relevant responses. Such chatbots are applicable in different platforms like messaging apps, websites, mobile applications, etc.
 
 **Why are AI Chatbots Considered as Disruptive Technology?**
 
-Disruptive technology is referred to as AI chatbots that drastically transform the sectors, and change how businesses interact with consumers. Here are some reasons behind their disruptive nature according to (Sepali, 2018). 
+Disruptive technology is referred to as AI chatbots that drastically transform the sectors and change how businesses interact with consumers. Here are some reasons behind their disruptive nature according to (Sepali, 2018). 
 
 **1. Enhanced Customer Experience:** Users enjoy personalized and interactive experiences with AI chatbots because these virtual assistants respond to them quickly and correctly. Concurrently, they can take part in multiple conversations, implying that they are available 24/7. The use of chatbots helps businesses to provide quick and efficient customer service thus satisfying more customers and increasing customer loyalty.
 
-**2. Cost-Effective Solution:** Using AI chatbots can be cost-effective for businesses. As opposed to employing a sizeable customer support unit, chatbots minimize operational costs. In addition, chatbots are capable of taking multiple queries at the same time therefore, organizations do not need to hire extra employees when scaling their operations.
+**2. Cost-Effective Solution:** Using AI chatbots can be cost-effective for businesses. As opposed to employing a sizeable customer support unit, chatbots minimize operational costs. In addition, chatbots are capable of taking multiple queries at the same time; therefore, organizations do not need to hire extra employees when scaling their operations.
 
-**3. Increased Efficiency:** It may seem slow for humans but faster for AI chatbots, thereby increasing operational efficiency. They are capable of handling big data in real-time and providing necessary insights to support their decisions. In other ways, chatbots simplify procedures as it automate routine work. 
+**3. Increased Efficiency:** It may seem slow for humans but faster for AI chatbots, thereby increasing operational efficiency. They are capable of handling big data in real time and providing necessary insights to support their decisions. In other ways, chatbots simplify procedures as they automate routine work. 
 
-**4. Accessible Customer Support:** Customer support is also quick in this aspect since they are always available regardless of customers’ location and time. This helps in ensuring customers can seek assistance any time they want without necessarily waiting for a human being. This becomes an asset, especially in industry sectors like e-commerce where quick response is necessary for client satisfaction.
+**4. Accessible Customer Support:** Customer support is also quick in this aspect since they are always available regardless of customers’ location and time. This helps in ensuring customers can seek assistance any time they want without necessarily waiting for a human being. This becomes an asset, especially in industry sectors like e-commerce, where quick response is necessary for client satisfaction.
 
-**5. Scalability:** Managing numerous customer queries and requests as businesses become larger can be quite a challenge. The use of AI chatbots in addressing the growing demand will ensure that businesses deliver quality responses and promptly.
+**5. Scalability:** Managing numerous customer queries and requests as businesses become larger can be quite a challenge. The use of AI chatbots in addressing the growing demand will ensure that businesses deliver quality responses promptly.
 
 **6. Proactive Engagement:** AI chatbots are active and can start a conversation with a customer to give advice or make suggestions tailored to a specific individual. Through reviewing previous encounters and customer information, chatbots can give customized and relevant recommendations for enhanced cross-selling and up-selling possibilities.
 
@@ -24,15 +36,15 @@ Let’s dive in and explore the most innovative chatbots one by one.
 
 **Lyro - a chatbot to enhance customer experience** 
 
-The market has been revolutionized with the new AI chatbot, Lyro which is changing the old way of doing business. It aims to offer customized and effective customer care through the adoption of Artificial intelligence, as well, as natural language processing applications.
+The market has been revolutionized with the new AI chatbot, Lyro, which is changing the old way of doing business. It aims to offer customized and effective customer care through the adoption of Artificial intelligence, as well, as natural language processing applications.
 
-Machine learning-based algorithms are used in developing lyro  that comprehends the queries of customers and replies with proper and reliable data (Rajnerowicz, 2023). It can cover different types of customer queries from the simplest question to solving complicated issues automatically without the need for additional human interventions.
+Machine learning-based algorithms are used in developing Lyro,  that comprehends the queries of customers and replies with proper and reliable data (Rajnerowicz, 2023). It can cover different types of customer queries, from the simplest question to solving complicated issues automatically without the need for additional human interventions.
 
 Lyro breaks away from the norms by offering support that is available twenty-four hours a day LaChief (2023). Lyro, unlike a traditional customer service provider, operates all day round and is therefore able to help its clients at every hour.
 
 Different from traditional customer service, Lyro can manage numerous interactions with different customers at the same time. With various concurrent conversations with customers, it is capable of responding faster and thereby reducing customer waiting times (Baranowski, 2022).
 
-Besides that, Lyro is custom-made and tailored to fit every client’s needs. It can analyze customer data and previous interactions and hence provide customized responses and recommendations based on each person’s preference and requirement (Ashiru, 2023). Personalization to this extent improves the customer experience and results in a stronger business-customer relationship.
+Besides that, Lyro is custom-made and tailored to fit every client’s needs. It can analyze customer data and previous interactions and provide customized responses and recommendations based on each person’s preferences and requirements (Ashiru, 2023). Personalization, to this extent, improves the customer experience and results in a stronger business-customer relationship.
 
 Lyro offers to automate ordinary customer support procedures so that human agents can concentrate on more delicate and special connections. Apart from improving general productivity, this allows businesses to better utilize their resources.
 
@@ -40,19 +52,19 @@ Lyro offers to automate ordinary customer support procedures so that human agent
 
 Pandorabots, which is the company behind this conversational AI technology, has created Kuki, the AI chatbot. Kuki is a chatbot that is different and disruptive, offering entertaining and smart conversations to users.
 
-Kuki traces her origin to 2002 when Pandorabots was established as the first AI chatbot platform (Frackiewicz, 2023). Kuki is a virtual character that was later developed from Pandorabots due to continued improvement over the years. Kuki uses NLP and ML models to interpret users' questions and produce relevant answers based on the surrounding context.
+Kuki traces her origin to 2002, when Pandorabots was established as the first AI chatbot platform (Frackiewicz, 2023). Kuki is a virtual character that was later developed from Pandorabots due to continued improvement over the years. Kuki uses NLP and ML models to interpret users' questions and produce relevant answers based on the surrounding context.
 
 Kuki is an improved conversationalist who can hold interesting dialogues with humans. It has the understanding of context, dialogue history, and the ability to offer responses that make sense of what went before Ankita (2023). This makes it different from rule-based chatbots, which have a more structured conversation. It also uses specialized language technologies that allow it to understand complex questions and then give an appropriate reply. It understands what the user enters and gives correct responses in context. Kuki has an upper hand in this contextual understanding over traditional chatbots.
 
-Kuki has been developed to give users a personal and compassionate touch (Frackiewicz, 2023). It can recall user preferences, alter its responses to suit certain conversational styles, and create personalized answers. The high level of personalization also increases the user’s experience and makes the interactions with Kuki feel exciting and gratifying. Furthermore, Kuki can create original and informative content in a variety of fields. For instance, it may enable users to offer thematic articles, stories, and even poems. It interferes with the traditional content creation procedure because Kuki comes up with the content in real-time, thus minimizing the handwriting of content.
+Kuki has been developed to give users a personal and compassionate touch (Frackiewicz, 2023). It can recall user preferences, alter responses to suit certain conversational styles, and create personalized answers. The high level of personalization also increases the user’s experience and makes the interactions with Kuki feel exciting and gratifying. Furthermore, Kuki can create original and informative content in a variety of fields. For instance, it may enable users to offer thematic articles, stories, and poems. It interferes with the traditional content creation procedure because Kuki comes up with the content in real-time, thus minimizing the handwriting of content.
 
-Kuki improves on language understanding and in response, every time it interacts with a user (Kunze, 2018). It is capable of learning about new vocabulary, knowing about current affairs, and thus enhancing its communication proficiency. It also demonstrates Kuki’s continuous learning capability and ability to remain current. Additionally, Kuki is portable and adaptable enabling its application in many platforms and applications (Singh 2022). It can be used in customer support, virtual assistants, educational tools, and others. Such flexibility disturbs the creation of custom-made chatbots based on scratch.
+Kuki improves language understanding and response every time it interacts with a user (Kunze, 2018). It is capable of learning new vocabulary, knowing about current affairs, and thus enhancing its communication proficiency. It also demonstrates Kuki’s continuous learning capability and ability to remain current. Additionally, Kuki is portable and adaptable, enabling its application on many platforms and applications (Singh 2022). It can be used in customer support, virtual assistants, educational tools, and others. Such flexibility disturbs the creation of custom-made chatbots based on scratch.
 
-Kuki in brief is a sophisticated AI chatbot with a high conversational level, context awareness, personalization, content creation, language learning, and integrative capacities. The revolutionary chatbot is challenging the norm by bringing about a more natural and intelligent conversation which is redefining the market of chatbots and ushering in new prospects for myriad applications and sectors.
+Kuki, in brief, is a sophisticated AI chatbot with a high conversational level, context awareness, personalization, content creation, language learning, and integrative capacities. The revolutionary chatbot is challenging the norm by bringing about a more natural and intelligent conversation which is redefining the market of chatbots and ushering in new prospects for myriad applications and sectors.
 
 **Rose AI - an AI for finding, organizing, and visualizing data**
 
-The OpenAI research organization has created Rose AI which is an AI chatbot. Rose AI draws on the achievements of earlier language models like GPT-2 and GPT-3 (Hamacher, 2015). It has many parameters that enable it to learn from multiple text input data and produce quality responses (Charleson, 2018). Rose AI has been trained on various sources such as books, articles, and websites, and hence has ample background knowledge.
+The OpenAI research organization has created Rose AI, which is an AI chatbot. Rose AI draws on the achievements of earlier language models like GPT-2 and GPT-3 (Hamacher, 2015). It has many parameters that enable it to learn from multiple text input data and produce quality responses (Charleson, 2018). Rose AI has been trained on various sources such as books, articles, and websites and has ample background knowledge.
 
 Rose AI is excellent in the analysis and generation of the natural language (Banham, 2018). This machine is in a position to understand sophisticated sentence structures, understand innuendos, and sustain logical communications with users. The comprehension of the context puts these types of language understanding apart from simple rule-based chatbots. 
 
@@ -64,9 +76,9 @@ Nevertheless, it’s important to be very careful and observe ethical principles
 
 **Vivabot - a chatbot for cancer patients to help with their mindset**
 
-Viva Health is a prominent digital health service developer who designed Vivabot, an AI chatbot. This is a personalized interactive online communication, focused on mental health support for people. Vivabot employs artificial intelligence together with natural language processing to discuss with users psychotherapy dialogues and give information about mental wellness issues (Geer et al. 2019). 
+Viva Health is a prominent digital health service developer who designed Vivabot, an AI chatbot. This is a personalized interactive online communication focused on mental health support for people. Vivabot employs artificial intelligence together with natural language processing to discuss with users psychotherapy dialogues and give information about mental wellness issues (Geer et al. 2019). 
 
-Vivabot has its origin in the widespread demand for affordable and easy-to-access mental health care. There is an increasing need for mental health support in different parts of the world today. Traditional forms of therapy like in-person counseling are not readily available because they can be expensive and stigmatizing. Vivabot is aiming to fill this gap by presenting a virtual and confidential platform where people can reach out for help, at any time and from every place.
+Vivabot has its origin in the widespread demand for affordable and easy-to-access mental health care. There is an increasing need for mental health support in different parts of the world today. Traditional forms of therapy, like in-person counseling, are not readily available because they can be expensive and stigmatizing. Vivabot is aiming to fill this gap by presenting a virtual and confidential platform where people can reach out for help, at any time and from every place.
 
 The distinguishing feature is that Vivabot is an innovation in the delivery of mental health support (Hope Lab, 2019). The AI system involves a CBT-based approach with easy access and use with the aid of a chatbot. As a result, Vivabot can offer tailor-made coping tactics and self-assistance exercises at the user’s demand.
 
@@ -82,9 +94,9 @@ Woebot is a conversational AI chatbot for providing mental health support to peo
 
 Woebot’s origin lies in the desire for scalable and affordable mental health products. Due to scarceness, high cost, and stigma, there might be problems in traditional mental healthcare. Woebot challenges the traditional approach to mental health provision by creating and delivering an online support tool accessible via any smartphone or personal computer.
 
-Woebot uses AI technology to provide a therapeutic service unlike others (Brown, 2021). The chatbot enables a conversation with the user that is similar to having a conversation with a human counselor. In this safe and comfortable place, users may share and express their thoughts or feelings. Woebot offers evidence-based interventions and exercises based on cognitive-behavioral therapy that helps people to challenge their negative thoughts and to develop coping skills thus improving their mental health (Doe, 2020).
+Woebot uses AI technology to provide a therapeutic service unlike others (Brown, 2021). The chatbot enables a conversation with the user that is similar to having a conversation with a human counselor. In this safe and comfortable place, users may share and express their thoughts or feelings. Woebot offers evidence-based interventions and exercises based on cognitive-behavioral therapy that helps people to challenge their negative thoughts and to develop coping skills, thus improving their mental health (Doe, 2020).
 
-The uniqueness of Woebot is the ability to target more individuals than normal and in an even manner. In contrast to normal therapy which is quite scarce and always has many people waiting to be attended, Woebot can manage numerous users at a time. Scalability offers Woebot a greater opportunity of getting to many people and helping those who could not have got it under normal circumstances (Fitzpatrick et al, 2017). 
+The uniqueness of Woebot is the ability to target more individuals than normal and in an even manner. In contrast to normal therapy, which is quite scarce and always has many people waiting to be attended, Woebot can manage numerous users at a time. Scalability offers Woebot a greater opportunity of getting to many people and helping those who could not have got it under normal circumstances (Fitzpatrick et al, 2017). 
 
 Another disruption feature is the affordability of Woebot (Eve, 2020). It is cheaper as compared to in-person therapy. It is a cost-effective approach for most people who desire mental support rather than other expensive facilities. It also helps reduce the stigma attached to therapy seeking. The chatbot enables users to interact anonymously, whereby they may not be judged by other people.
 
@@ -100,15 +112,19 @@ Siri was created to help facilitate user access to multiple services, informatio
 
 In that case, Siri disturbs the market status quo. The voice-controlled interface, as a first, changes how users communicate with their devices. Rather than rely on touching and typing, users can talk to their devices to get them to fetch information for them using Siri. This is a convenient way of interacting without having to hold anything since it is ideal for multitasking and when users are immobile.
 
-Additionally, Siri works together with several apps and services such that users can interact with only one system (Clover, 2021). Siri will enable users to send text messages, call, set reminders and appointments, play music, navigate maps, and many other jobs. Siri helps in controlling devices by reducing switching between multiple apps and thus makes it easier to use.
+Additionally, Siri works together with several apps and services so that users can interact with only one system (Clover, 2021). Siri will enable users to send text messages, call, set reminders and appointments, play music, navigate maps, and many other jobs. Siri helps in controlling devices by reducing switching between multiple apps and thus makes it easier to use.
 
 Siri also disrupts by understanding context and giving tailored answers (Lagapa, 2018). Thus, Siri gets better and better as time goes on. The customization of Siri makes it friendlier to users making it more relevant, functional, and usable.
 
-Also, Siri has created opportunities for app and service creators to integrate their products with the virtual assistant (Daniel, 2021). Apple presents SiriKit which is a framework through which developers develop specific Siri-enabled functions within their applications. Siri’s capabilities are extended to other domains and it becomes more integrated at this level.
+Also, Siri has created opportunities for app and service creators to integrate their products with the virtual assistant (Daniel, 2021). Apple presents SiriKit, which is a framework through which developers develop specific Siri-enabled functions within their applications. Siri’s capabilities are extended to other domains, and it becomes more integrated at this level.
 
 Therefore, Siri disturbs the general market by launching a voice-controlled interface, integrating different services, giving custom answers, and allowing third-party integration. It has completely altered the way people handle these devices, leading the way to virtual assistant domination of the market. Siri’s consistent progressions and betterments expand the capabilities of an AI chatbot towards user interactions and usefulness.
 
 **References**
+
+**Davenport et al. (2021).** How to Design an AI Marketing Strategy. https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy
+
+**Disruptive technologies** - Breakthroughs that Change our Lives. https://www.repsol.com/en/energy-and-the-future/technology-and-innovation/disruptive-technologies/index.cshtml
 
 **Ankita (2023).** Kuki AI – How to Use, Price and Alternatives. _https://www.mlyearning.org/kuki-ai/_
 
