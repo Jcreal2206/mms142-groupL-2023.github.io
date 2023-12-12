@@ -30,7 +30,7 @@ Disruptive technology is referred to as AI chatbots that drastically transform t
 
 **6. Proactive Engagement:** AI chatbots are active and can start a conversation with a customer to give advice or make suggestions tailored to a specific individual. Through reviewing previous encounters and customer information, chatbots can give customized and relevant recommendations for enhanced cross-selling and up-selling possibilities.
 
-The new way of interactions between businesses and customers is AI chatbots that can be considered disruptive technology because of they can improve customer experience, lower cost, increase efficiency and scalability of operation, and accessibility of support. They are revolutionizing industries while creating new opportunities for businesses to succeed amidst a dynamic digital environment.
+The new way of interactions between businesses and customers is AI chatbots that can be considered disruptive technology because they can improve customer experience, lower cost, increase efficiency and scalability of operation, and accessibility of support. They are revolutionizing industries while creating new opportunities for businesses to succeed amidst a dynamic digital environment.
 
 Let’s dive in and explore the most innovative chatbots one by one. 
 
@@ -122,10 +122,6 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **References**
 
-**Davenport et al. (2021).** How to Design an AI Marketing Strategy. https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy
-
-**Disruptive technologies** - Breakthroughs that Change our Lives. https://www.repsol.com/en/energy-and-the-future/technology-and-innovation/disruptive-technologies/index.cshtml
-
 **Ankita (2023).** Kuki AI – How to Use, Price and Alternatives. _https://www.mlyearning.org/kuki-ai/_
 
 **Ashiru, G. (2023).** Introducing Lyro: The Premier Conversational AI Chatbot Tailored for Small Businesses. _https://www.techinafrica.com/introducing-lyro-the-premier-conversational-ai-chatbot-tailored-for-small-businesses/_
@@ -145,6 +141,8 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 **Clover, J. (2021).** Siri: Everything You Need To Know. _https://www.macrumors.com/guide/siri/_
 
 **Daniel, N. (2021).** What Is Siri and How Can Siri Help Me? _https://www.lifewire.com/what-is-siri-help-1994303_
+
+**Davenport et al. (2021).** How to Design an AI Marketing Strategy. https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy
 
 **Doe, J. (2020).** Woebot – Bringing mental health care to your fingertips. _https://d3.harvard.edu/platform-digit/submission/woebot-bringing-mental-health-care-to-your-finger-tips/_
 
@@ -179,6 +177,8 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 **Rajnerowicz, K (2023).** 26 Best Real Life Chatbot Examples [Well-Known Brands]. Tidio. _https://www.tidio.com/blog/chatbot-examples/_
 
 **Rajnerowicz, K (2023).** Meet Lyro: The First Conversational AI for SMBs.Tidio _https://www.tidio.com/blog/lyro-conversational-ai/_
+
+**Repsol, G (2023).** Disruptive Technologies: Breakthroughs that change our lives. _https://www.repsol.com/en/energy-and-the-future/technology-and-innovation/disruptive-technologies/index.cshtml_
 
 **Sepali, A. (2018).** How Chatbots Are Changing the Game. _https://www.linkedin.com/pulse/disruptive-technologies-chatbots-alessandro-sepali-8_
 
