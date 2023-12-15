@@ -1,0 +1,248 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swop');
+*{
+  font-family: 'Poppins', sans-serif;
+  margin: 5;
+  padding: 0;
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
+  box-sizing: border-box;
+}
+
+/* Variables */
+:root {
+    --container-color: #1a1e21;
+    --second-color: #fd8f44;
+    --text-color: #172317;
+    --bg-color: #fff;
+}
+::selection {
+    color: var(--bg-color);
+    background: var(--second-color);
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+.container {
+    max-width: 1068px;
+    margin: auto;
+    width: 100%;
+}
+
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 5rem;
+    width: 100%;
+    z-index: 333;
+  
+}
+header.shadow {
+    background: var(--bg-color);
+    box-shadow: 0 1px 4px hsla(0, 14%, 10%, 0.1);
+    transition: 0.4;
+    
+}
+header.shadow .logo {
+    color: var(--text-color);
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 0;
+}
+.logo {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--bg-color);
+}
+.logo span {
+    color: var(--second-color);
+}
+.login{
+    padding: 8px 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border-radius: 4px;
+    background: var(--second-color);
+    color: var(--bg-color);
+}
+.login:hover {
+    background: hsl(24, 98%, 58%);
+    transition: 0.3s;
+}
+
+/* Home */
+.home {
+    width: 100%;
+    min-height: 440px;
+    background: var(--container-color);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.home-text {
+    color: var(--bg-color);
+    text-align: center;
+}
+.home-title{
+    font-size: 3.5rem;
+}
+.home-subtitle{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+/* Main Post */
+main{
+    width: 100%;
+    max-width: 80rem;
+    background-color:hsla(25, 61%, 56%, 0.774);
+    margin: 0 auto;
+    padding: 3rem;
+    border-radius: 1.5rem;
+    margin-bottom: -8rem;
+}
+main h2{
+    font-size: 3rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  text-align: left;
+}
+main .profile-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3rem 0;
+}
+main p{
+    color:#5b5963;
+    margin: 1rem 0;
+}
+main h4{
+    color:#5b59630;
+    margin: 1rem 0;
+  font-size: 1.2rem;
+}
+main h3{
+    color:#5b59630;
+    margin: 1rem 0;
+  font-size: 1.2rem;
+}
+h1{color:#5b59630;
+    margin: 1rem 0;
+  font-size: 1.2rem;
+}
+/* Sidebar Menu Styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 350px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    z-index: 1000;
+}
+
+.sidebar {
+
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+}
+
+.sidebar.show-sidebar {
+    transform: translateX(0);
+}
+.sidebar h3 {
+    font-size: 1.rem;
+    margin-bottom: 20px;
+  color: #fd8f44
+}
+.sidebar h3 li a {
+    font-size: 1.rem;
+    margin-bottom: 20px;
+  color: #fd8f44
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+
+.sidebar li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.sidebar ul li a[href="#References"] {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #fd8f44;
+}
+
+.toggle-btn {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 999; 
+  color: #fd8f44;
+    cursor: pointer;
+    
+}
+.sidebar {
+    transform: translateX(-100%);
+}
+
+.sidebar.show-sidebar {
+    transform: translateX(0%);
+.back-btn {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    background-color: #fd8f44;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+.back-btn:hover {
+    background-color: hsl(24, 98%, 58%);
+
+}
+
+
+
+/* footer */ 
+
+footer {
+    width: 100%;
+    min-height: 200px;
+    background: var(--container-color);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-area: footer;
+    text-align: center;
+  
+}
