@@ -120,6 +120,28 @@ Also, Siri has created opportunities for app and service creators to integrate t
 
 Therefore, Siri disturbs the general market by launching a voice-controlled interface, integrating different services, giving custom answers, and allowing third-party integration. It has completely altered the way people handle these devices, leading the way to virtual assistant domination of the market. Siri’s consistent progressions and betterments expand the capabilities of an AI chatbot towards user interactions and usefulness.
 
+**Roo - sexual health educational bot**
+
+Roo is a sexual education chatbot made by Planned Parenthood for teenagers to discuss their sexually intimate curiosities, relationships, and physical health without the need to talk to a human being. The chatbot provides safety and anonymity by not collecting cookies from its users (Carey, 2020).
+
+Since its launch in 2019, it has recorded over 3.5 million chats, and 78% of its users are ages 13 to 19. Teenage users became comfortable using the chatbot because of its visual identity and personalized tone, which aims to be gender-neutral and playful yet mature. It collected accurate sexual health information through a 6-month machine learning from various medical resources before its official launch (Work & Co, 2023).
+
+As the chatbot becomes accessible and safe for teenage users,  it challenges the traditional approach to sexual education in school departments. Teenage users would not have to open their questions to either their teachers or their peers about their sexual curiosity and would go straight to the chatbot instead.
+
+For other communities who do not have access to sexual education, it imposes a risk of relying too much on the chatbot and the Internet about their sexual curiosities. Fortunately, Roo provides additional medical and scientific resources such as articles and videos to their answer or redirects them to a live person when the chatbot cannot answer the user's question (Carey, 2020).
+
+Overall, while Roo eases the comfort of teenage users with sexual education and awareness, it disrupts the social interaction and livelihoods of teachers and advisers who focus on sexual education.
+
+**Replika - The AI that understands you**
+
+Replika is an AI chatbot that utilizes textual context to procure personal conversations. The AI analyzes the text messages’ mannerisms, style, and topics to replicate how the person will write or talk to reply. Many say that Replika is like mirroring the person.
+
+Replika gained immense popularity because people were finding emotional and casual conversations with this chatbot. With the help of the co-founder of Luka, Philip, they built a build-your-own AI companion called Replika. You can customize Replika's avatar and earn points to buy more accessories and add personalities. They also offer the AI’s ”diary” to review past interactions. 
+
+Replika's main feature is making a safe space to converse with yourself. All the AI needs is the person’s conversation with it. After chatting with the bot for a while,  the AI can hold topics and words that the person wants to hear.
+
+Replika disturbs the therapeutic market because users are comfortable sharing their inner feelings with the bot. Replika is free and offers pro versions that have more in-depth and dynamic conversations, such as roleplaying and video calls, with advanced AI.
+
 **References**
 
 **Ankita (2023).** Kuki AI – How to Use, Price and Alternatives. _https://www.mlyearning.org/kuki-ai/_
@@ -135,6 +157,8 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 **Brown, K. (2021).** Something Bothering You? Tell It to Woebot. _https://www.nytimes.com/2021/06/01/health/artificial-intelligence-therapy-woebot.html_
 
 **Canham, M. (2022).** Rise of the ROSE Bots. _https://www.mimecast.com/blog/rise-of-the-rose-bots/_
+
+**Carey, T. (2021, July 7).** Your new sex ed teacher is a chatbot. Freethink. _https://www.freethink.com/hard-tech/sex-education_
 
 **Charleson, M. (2018).** Meet Rose the AI Chat Bot with personality. _https://fiveminutemarketing.com/2018/09/meet-rose-an-ai-chat-bot-with-personality/_
 
@@ -188,7 +212,7 @@ Therefore, Siri disturbs the general market by launching a voice-controlled inte
 
 **Vanjani, M. (2019).** An Evaluation of Three Online Chatbots. _https://digitalscholarship.tsu.edu/cgi/viewcontent.cgi?article=1035&context=sbaj_
 
-
+**Work & Co. (2023).** Planned parenthood case study. Work & Co. _https://work.co/clients/planned-parenthood/_
 
  
 
